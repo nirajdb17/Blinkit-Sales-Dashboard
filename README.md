@@ -1,7 +1,5 @@
 # 🛒 Blinkit Sales Dashboard | Power BI Project
-
-![Dashboard Preview](dashboard.png)
-
+-- ![Dashboard Preview](blinkit_sales_dashboard.pdf)
 ## 📊 Overview
 
 This project presents a detailed **sales and customer behavior analysis** for Blinkit (India's last-minute grocery delivery app), using Power BI to create an interactive and insightful dashboard. The dashboard enables stakeholders to understand performance across different outlet sizes, locations, item categories, and outlet types.
@@ -61,7 +59,7 @@ The data used for this dashboard was self-generated and cleaned using:
 
 ## 📌 Project Link
 
-🔗 **GitHub Repository**: [Blinkit Power BI Dashboard](https://github.com/nirajdb17/blinkit_sales_dashboard)  
+🔗 **GitHub Repository**: [Blinkit Power BI Dashboard](https://github.com/nirajdb17/Blinkit-Sales_Dashboard)  
 📩 **Contact**: nirajbondarde3004@gmail.com
 
 ---
